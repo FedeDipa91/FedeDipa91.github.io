@@ -1,8 +1,10 @@
 # Federico Di Pasquale
+
 <!DOCTYPE html>
 <html>
 <head>
 	<title>Video Game Message Management Portfolio Project</title>
+	
 	<style>
 		body {
 			background-color: #F5E5FF;
